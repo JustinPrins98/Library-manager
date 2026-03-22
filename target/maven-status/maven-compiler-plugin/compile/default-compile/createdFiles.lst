@@ -1,0 +1,7 @@
+com\justinprins\library\service\LibraryServiceImpl.class
+com\justinprins\library\exception\NoAvailableCopiesException.class
+com\justinprins\library\repository\InMemoryBookRepository.class
+com\justinprins\library\service\LibraryService.class
+com\justinprins\library\domain\Book.class
+com\justinprins\library\exception\BookNotFoundException.class
+com\justinprins\library\repository\BookRepository.class

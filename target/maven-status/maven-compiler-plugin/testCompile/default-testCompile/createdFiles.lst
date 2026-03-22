@@ -1,0 +1,3 @@
+com\justinprins\library\service\LibraryServiceTest.class
+com\justinprins\library\domain\BookTest.class
+com\justinprins\library\repository\InMemoryBookRepositoryTest.class

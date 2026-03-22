@@ -1,0 +1,7 @@
+C:\Users\justi\Ontwikkelpad\java-book-library\src\main\java\com\justinprins\library\domain\Book.java
+C:\Users\justi\Ontwikkelpad\java-book-library\src\main\java\com\justinprins\library\exception\BookNotFoundException.java
+C:\Users\justi\Ontwikkelpad\java-book-library\src\main\java\com\justinprins\library\exception\NoAvailableCopiesException.java
+C:\Users\justi\Ontwikkelpad\java-book-library\src\main\java\com\justinprins\library\repository\BookRepository.java
+C:\Users\justi\Ontwikkelpad\java-book-library\src\main\java\com\justinprins\library\repository\InMemoryBookRepository.java
+C:\Users\justi\Ontwikkelpad\java-book-library\src\main\java\com\justinprins\library\service\LibraryService.java
+C:\Users\justi\Ontwikkelpad\java-book-library\src\main\java\com\justinprins\library\service\LibraryServiceImpl.java
